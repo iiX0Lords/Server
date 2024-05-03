@@ -1,0 +1,53 @@
+[19:31:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:31:57] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[19:31:58] [ServerMain/INFO]: No existing world data, creating new world
+[19:31:59] [ServerMain/INFO]: Loaded 1174 recipes
+[19:31:59] [ServerMain/INFO]: Loaded 1271 advancements
+[19:32:00] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[19:32:00] [Server thread/INFO]: Loading properties
+[19:32:00] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
+[19:32:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:32:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:32:01] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[19:32:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[19:32:01] [Server thread/INFO]: Default game type: SURVIVAL
+[19:32:01] [Server thread/INFO]: Generating keypair
+[19:32:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:32:02] [Server thread/INFO]: Using default channel type
+[19:32:02] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[19:32:02] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[19:32:02] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[19:32:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:32:02] [Server thread/INFO]: Preparing level "world"
+[19:32:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:32:08] [Server thread/INFO]: Time elapsed: 150 ms
+[19:32:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:32:08] [Server thread/INFO]: Time elapsed: 166 ms
+[19:32:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:32:08] [Server thread/INFO]: Time elapsed: 39 ms
+[19:32:08] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[19:32:08] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[19:32:08] [Server thread/INFO]: [Essentials] Creating config from template: plugins\Essentials\config.yml
+[19:32:09] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[19:32:09] [Server thread/INFO]: [Essentials] Creating config from template: plugins\Essentials\kits.yml
+[19:32:09] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[19:32:09] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[19:32:09] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[19:32:09] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[19:32:09] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[19:32:09] [Server thread/INFO]: [Essentials] Creating config from template: plugins\Essentials\worth.yml
+[19:32:09] [Server thread/INFO]: [Essentials] Creating config from template: plugins\Essentials\tpr.yml
+[19:32:09] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[19:32:09] [Server thread/INFO]: [Essentials] Creating config from template: plugins\Essentials\custom_items.yml
+[19:32:09] [Server thread/INFO]: [Essentials] Using locale en_AU
+[19:32:10] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[19:32:10] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[19:32:10] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[19:32:10] [Server thread/INFO]: Running delayed init tasks
+[19:32:10] [Server thread/INFO]: Done (10.289s)! For help, type "help"
+[19:32:10] [Server thread/INFO]: Timings Reset
+[19:32:10] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[19:32:43] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[19:32:59] [Server thread/INFO]: Made qtora a server operator
